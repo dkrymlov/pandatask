@@ -1,0 +1,10 @@
+/* 
+  infoPlist.strings
+  pandatask
+
+  Created by Даниил Крымлов on 06.09.2023.
+  
+*/
+"CFBundleDisplayName" = "Panda Task";
+
+"CFBundleName" = "Panda Task";
